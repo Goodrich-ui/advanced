@@ -20,5 +20,5 @@ html_static_path = ['_static']
 
 # ✅ Google Verification (WORKING METHOD)
 html_context = {
-    "<meta name="google-site-verification" content="nkfFWEaHXct0Lyzc10Hl3Dmo91U7cTPvV0aSmyH4PaA" />'
+    google-site-verification" content="nkfFWEaHXct0Lyzc10Hl3Dmo91U7cTPvV0aSmyH4PaA
 }
